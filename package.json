@@ -1,0 +1,19 @@
+{
+  "name": "secure-auth",
+  "version": "1.0.0",
+  "description": "This is a backend project where I am implementing auth with all the security methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "secure-auth-repo"
+  },
+  "author": "humza-a-kh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node": "^24.12.0"
+  }
+}
